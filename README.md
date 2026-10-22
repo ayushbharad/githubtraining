@@ -1,11 +1,13 @@
 # Project Name
 
+a brief description of what this project does who it's for.
+
 ## Table Of Contents
 
-- [installation]_(#installation)
-- [usage]_(#us  age)
-- [contributing]_(#contributing)
-- [license]_(#license)
+- [installation]_(#installation).
+- [usage]_(#usage).
+- [contributing]_(#contributing).
+- [license]_(#license).
 
 ## installation 
 
