@@ -2,10 +2,10 @@
 
 ## Table Of Contents
 
--[installation]_(#installation)
--[usage]_(#us  age)
--[contributing]_(#contributing)
--[license]_(#license)
+- [installation]_(#installation)
+- [usage]_(#us  age)
+- [contributing]_(#contributing)
+- [license]_(#license)
 
 ## installation 
 
